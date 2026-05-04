@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOPs_Lab_CIE/src/mlruns/809674111201261472/f3e9a87e03e049c6882b6c416fad88ce/artifacts
+end_time: 1777867647697
+entry_point_name: ''
+experiment_id: '809674111201261472'
+lifecycle_stage: active
+run_id: f3e9a87e03e049c6882b6c416fad88ce
+run_name: likeable-worm-526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867647600
+status: 3
+tags: []
+user_id: Nandan C

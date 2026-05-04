@@ -1,0 +1,18 @@
+{
+    "experiment_name": "coinpulse-gas-fee-gwei",
+    "models": [
+        {
+            "name": "SVR",
+            "mae": 35.85984295532206,
+            "rmse": 45.65813264295211
+        },
+        {
+            "name": "RandomForest",
+            "mae": 8.265939999999969,
+            "rmse": 11.240624424737245
+        }
+    ],
+    "best_model": "RandomForest",
+    "best_metric_name": "rmse",
+    "best_metric_value": 11.240624424737245
+}

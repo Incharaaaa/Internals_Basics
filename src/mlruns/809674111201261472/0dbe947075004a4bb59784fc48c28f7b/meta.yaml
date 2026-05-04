@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOPs_Lab_CIE/src/mlruns/809674111201261472/0dbe947075004a4bb59784fc48c28f7b/artifacts
+end_time: 1777867647597
+entry_point_name: ''
+experiment_id: '809674111201261472'
+lifecycle_stage: active
+run_id: 0dbe947075004a4bb59784fc48c28f7b
+run_name: aged-mare-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867647459
+status: 3
+tags: []
+user_id: Nandan C

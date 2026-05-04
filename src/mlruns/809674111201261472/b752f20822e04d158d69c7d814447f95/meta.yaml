@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOPs_Lab_CIE/src/mlruns/809674111201261472/b752f20822e04d158d69c7d814447f95/artifacts
+end_time: 1777867647953
+entry_point_name: ''
+experiment_id: '809674111201261472'
+lifecycle_stage: active
+run_id: b752f20822e04d158d69c7d814447f95
+run_name: tuning-coinpulse
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867645828
+status: 3
+tags: []
+user_id: Nandan C

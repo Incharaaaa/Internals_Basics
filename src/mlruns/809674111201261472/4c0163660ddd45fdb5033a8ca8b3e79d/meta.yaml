@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOPs_Lab_CIE/src/mlruns/809674111201261472/4c0163660ddd45fdb5033a8ca8b3e79d/artifacts
+end_time: 1777867646109
+entry_point_name: ''
+experiment_id: '809674111201261472'
+lifecycle_stage: active
+run_id: 4c0163660ddd45fdb5033a8ca8b3e79d
+run_name: glamorous-finch-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867646004
+status: 3
+tags: []
+user_id: Nandan C

@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOPs_Lab_CIE/src/mlruns/809674111201261472/21007f9999da403ca16113bcea13b500/artifacts
+end_time: 1777867647951
+entry_point_name: ''
+experiment_id: '809674111201261472'
+lifecycle_stage: active
+run_id: 21007f9999da403ca16113bcea13b500
+run_name: smiling-eel-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867647802
+status: 3
+tags: []
+user_id: Nandan C

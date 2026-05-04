@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOPs_Lab_CIE/src/mlruns/809674111201261472/aa32c4326d0d4e4e9c35509880d4cf46/artifacts
+end_time: 1777867646608
+entry_point_name: ''
+experiment_id: '809674111201261472'
+lifecycle_stage: active
+run_id: aa32c4326d0d4e4e9c35509880d4cf46
+run_name: upset-shrike-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867646459
+status: 3
+tags: []
+user_id: Nandan C

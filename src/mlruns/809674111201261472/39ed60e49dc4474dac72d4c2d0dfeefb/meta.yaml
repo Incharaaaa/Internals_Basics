@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOPs_Lab_CIE/src/mlruns/809674111201261472/39ed60e49dc4474dac72d4c2d0dfeefb/artifacts
+end_time: 1777867646689
+entry_point_name: ''
+experiment_id: '809674111201261472'
+lifecycle_stage: active
+run_id: 39ed60e49dc4474dac72d4c2d0dfeefb
+run_name: painted-bird-526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867646612
+status: 3
+tags: []
+user_id: Nandan C

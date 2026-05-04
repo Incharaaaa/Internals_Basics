@@ -1,0 +1,16 @@
+{
+  "health_endpoint": "/heartbeat",
+  "predict_endpoint": "/score",
+  "port": 8000,
+  "health_response": {
+    "alive": true,
+    "service": "CoinPulse gas_fee_gwei API"
+  },
+  "test_input": {
+    "network_congestion": 0.7,
+    "txn_size_bytes": 1252,
+    "is_priority": 1,
+    "block_fullness_pct": 80.4
+  },
+  "prediction": 124.436
+}

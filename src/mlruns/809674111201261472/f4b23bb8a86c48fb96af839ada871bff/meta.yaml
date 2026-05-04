@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOPs_Lab_CIE/src/mlruns/809674111201261472/f4b23bb8a86c48fb96af839ada871bff/artifacts
+end_time: 1777867647122
+entry_point_name: ''
+experiment_id: '809674111201261472'
+lifecycle_stage: active
+run_id: f4b23bb8a86c48fb96af839ada871bff
+run_name: secretive-hog-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867647027
+status: 3
+tags: []
+user_id: Nandan C

@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOPs_Lab_CIE/src/mlruns/809674111201261472/124353b140d0466bbde5f4109c0b7c7c/artifacts
+end_time: 1777867647267
+entry_point_name: ''
+experiment_id: '809674111201261472'
+lifecycle_stage: active
+run_id: 124353b140d0466bbde5f4109c0b7c7c
+run_name: awesome-lamb-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867647125
+status: 3
+tags: []
+user_id: Nandan C
